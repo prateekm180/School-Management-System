@@ -1,4 +1,4 @@
-# School Management System (SMS) — Advanced Relational Desktop Suite
+# School Management System (SMS)
 
 An enterprise-grade, multi-tenant desktop application designed to fully automate and manage an educational institution's administrative, financial, operational, and academic workflows. This project utilizes a **Three-Tier Software Architecture** featuring an object-oriented Python 3.x Tkinter user interface backed by a highly optimized, fully normalized MySQL relational database server.
 
