@@ -13,7 +13,7 @@ An enterprise-grade, multi-tenant desktop application designed to fully automate
 * **Development & Design Team (Authors):**
     * Varun Kumar
     * Shrishti Yadav
-    * *and Group Members*
+    * *Under the Guidence of Mr. Adesh Singh Sir*
 * **Target Submissions:** Class XII Board Computer Science (Subject Code: 083) Capstone Project
 
 ---
