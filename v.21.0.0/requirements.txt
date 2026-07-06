@@ -1,0 +1,7 @@
+# ===============================================================================
+# SCHOOL MANAGEMENT SYSTEM - EXTERNAL DEPENDENCIES
+# Required for Class 12th Computer Science Project Execution
+# ===============================================================================
+
+# Official Oracle driver for connecting Python applications to MySQL databases
+mysql-connector-python>=8.0.33
