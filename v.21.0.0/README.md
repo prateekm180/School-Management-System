@@ -7,7 +7,8 @@ An enterprise-grade, multi-tenant desktop application designed to fully automate
 ## 🛠 Project Metadata & Context
 
 * **Software Build Version:** `v.21.0.0` *(Initial Stable Build — `21` denotes the lifecycle creation year)*
-* **Development Timeline:** * **Project Initiation:** November 2021
+* **Development Timeline:**
+    * **Project Initiation:** November 2021
     * **Project Completion & Freeze:** February 2022
 * **Development & Design Team (Authors):**
     * Varun Kumar
